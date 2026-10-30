@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/genzon-sanjurokunin-shiikaawase",
  "yomi": "げんぞんさんじゅうろくにんしいか",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "詩歌（屏風色紙）",
+  "era": "建治2年（1276）閏3月",
+  "author": "詩 撰者 藤原資宣、歌 撰者 真観（藤原光俊）",
+  "desc": "鎌倉の北条時宗がつくらせた屏風のために、当代の三十六人の漢詩と和歌を選んだもの。詩は資宣、歌は真観が撰び、当世の能書が色紙形に書いたと奥書にある。"
+ },
  "editions": [
   {
    "pid": "1879502",
